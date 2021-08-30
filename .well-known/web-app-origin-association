@@ -1,7 +1,7 @@
 {
   "web_apps": [
     {
-      "manifest": "https://diek.us/pwinter/manifest.json",
+      "manifest": "https://d13kus.github.io/pwinter/manifest.json",
       "details": {
         "paths": ["/*"]
       }
